@@ -1,0 +1,19 @@
+﻿{
+    "ci":  [
+               0.828,
+               0.932
+           ],
+    "disease":  "Alzheimer\u0027s Disease Transcriptomics",
+    "patent":  "US 63/942,422",
+    "tier":  "GOLD",
+    "sensitivity":  0.88,
+    "pipeline":  "BPF v1.0.0",
+    "patients":  262,
+    "event_rate":  0,
+    "cohort":  "ADNI Affymetrix U219 Microarray",
+    "phase":  "Phase 2",
+    "events":  0,
+    "specificity":  0.87,
+    "seed":  42,
+    "auc":  0.88
+}
